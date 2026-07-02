@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "3d7fcef929fe68bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "06070e67794cafa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd57ff55c55c3c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/daily-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "daily-template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d657b57ce7b6b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a1dde3d8c7d937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62b2b35d1276bc54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "6f9eed9d81f7d709",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "65a1c1238abf3625",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa1862be0a1f2f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "69911aab6a68e9bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fab740352b79dac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "index 的反向連結"
+            }
+          },
+          {
+            "id": "b025f63bff6873e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的對外連結"
+            }
+          },
+          {
+            "id": "8eed4e3ccf44eeba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "b425acc6e923b149",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "d88ea01216f58bc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "index 的大綱"
+            }
+          },
+          {
+            "id": "18e97643090fedef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "21466955c26a57b5",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false,
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false,
+      "obsidian42-brat:BRAT": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "21466955c26a57b5",
+  "lastOpenFiles": [
+    "wiki/entities/NotebookLM.md",
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "raw/人工智慧時代來臨！ASR語音轉文字技術創新與實際應用.md",
+    "未命名 1.base",
+    "未命名.base",
+    "daily/2026-07-02.md",
+    "templates/daily-template.md",
+    "未命名.md",
+    "文章追蹤.md",
+    "wiki/synthesis/AI會議記錄工具比較表.md",
+    "log.md",
+    "templates",
+    "daily",
+    "index.md",
+    "wiki/entities/tl;dv.md",
+    "wiki/entities/Smartshoki.md",
+    "wiki/entities/Otter-ai.md",
+    "CLAUDE.md",
+    "wiki/concepts/ASR技術.md",
+    "wiki/entities/Good-Tape.md",
+    "歡迎.md",
+    "wiki/entities/Notta.md",
+    "wiki/concepts/AI會議記錄工作流.md",
+    "wiki/entities/Plaud.md",
+    "wiki/entities/雅婷逐字稿.md",
+    "wiki/entities/Vurbo-ai.md",
+    "wiki/entities/Vocol-ai.md",
+    "wiki/entities/SeaMeet.md",
+    "wiki/entities/CLOVA-Note.md",
+    "未命名 1",
+    "未命名",
+    "wiki/synthesis",
+    "wiki/sources",
+    "wiki/entities",
+    "wiki/concepts"
+  ]
+}
