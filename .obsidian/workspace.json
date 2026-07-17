@@ -11,10 +11,14 @@
             "id": "dd57ff55c55c3c67",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "templates/daily-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "daily-template"
             }
           }
         ]
@@ -207,30 +211,30 @@
   },
   "active": "dd57ff55c55c3c67",
   "lastOpenFiles": [
-    "wiki/sources/twm-myvoca-asr.md",
     "wiki/synthesis/AI會議記錄工具比較表.md",
+    "index.md",
+    "log.md",
+    "歡迎.md",
     "文章追蹤.md",
+    "templates/daily-template.md",
+    "wiki/sources/twm-myvoca-asr.md",
     "wiki/sources/largitdata-asr-technology.md",
     "未命名.base",
     "未命名 1.base",
-    "templates/daily-template.md",
     "wiki/entities/NotebookLM.md",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
     "raw/人工智慧時代來臨！ASR語音轉文字技術創新與實際應用.md",
     "daily/2026-07-02.md",
     "未命名.md",
-    "log.md",
     "templates",
     "daily",
-    "index.md",
     "wiki/entities/tl;dv.md",
     "wiki/entities/Smartshoki.md",
     "wiki/entities/Otter-ai.md",
     "CLAUDE.md",
     "wiki/concepts/ASR技術.md",
     "wiki/entities/Good-Tape.md",
-    "歡迎.md",
     "wiki/entities/Notta.md",
     "wiki/concepts/AI會議記錄工作流.md",
     "wiki/entities/Plaud.md",
