@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
+                "file": "wiki/entities/Easemate-AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚"
+              "title": "Easemate-AI"
             }
           }
         ]
@@ -211,10 +211,14 @@
   },
   "active": "dd57ff55c55c3c67",
   "lastOpenFiles": [
+    "wiki/entities/inFin.md",
+    "wiki/entities/Meeting-Ink.md",
+    "wiki/entities/MyEdit.md",
+    "wiki/entities/myVoca.md",
+    "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
     "raw/人工智慧時代來臨！ASR語音轉文字技術創新與實際應用.md",
     "raw/ASR語音AI生態系｜最新ASR模型myVoca誕生!更快更準更省｜台灣大哥大企業服務.md",
     "raw/2026年最推AI會議記錄神器，省時省力的開會必備工具！.md",
-    "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
     "templates/daily-template.md",
     "wiki/synthesis/AI會議記錄工具比較表.md",
     "index.md",
@@ -237,10 +241,6 @@
     "wiki/entities/Otter-ai.md",
     "CLAUDE.md",
     "wiki/concepts/ASR技術.md",
-    "wiki/entities/Good-Tape.md",
-    "wiki/entities/Notta.md",
-    "wiki/concepts/AI會議記錄工作流.md",
-    "wiki/entities/Plaud.md",
     "未命名 1",
     "未命名",
     "wiki/synthesis",

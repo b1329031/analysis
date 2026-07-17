@@ -1,10 +1,15 @@
 ---
-title: "MyEdit"
+title: MyEdit
 type: entity
-tags: [AI工具, 語音轉文字, 台灣, 線上工具]
+tags:
+  - AI工具
+  - 語音轉文字
+  - 台灣
+  - 線上工具
 created: 2026-06-25
 updated: 2026-06-25
-sources: ["2026年最推AI會議記錄神器，省時省力的開會必備工具！.md"]
+sources:
+  - 2026年最推AI會議記錄神器，省時省力的開會必備工具！.md
 free_tier: true
 chinese: true
 taiwan_made: true
