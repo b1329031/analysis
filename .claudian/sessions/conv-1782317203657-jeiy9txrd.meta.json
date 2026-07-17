@@ -4,8 +4,8 @@
   "title": "Convert content to Traditional Chinese",
   "titleGenerationStatus": "success",
   "createdAt": 1782317203671,
-  "updatedAt": 1784294168189,
-  "lastResponseAt": 1784294168189,
+  "updatedAt": 1784294802575,
+  "lastResponseAt": 1784294802575,
   "sessionId": "71168ee8-21b2-48ba-a3e2-be6e993b2199",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 3657,
-    "cacheCreationInputTokens": 135594,
-    "cacheReadInputTokens": 0,
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 676,
+    "cacheReadInputTokens": 139481,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 139251,
+    "contextTokens": 140159,
     "percentage": 14
   }
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily-template.md",
+                "file": "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily-template"
+              "title": "2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚"
             }
           }
         ]
@@ -211,12 +211,16 @@
   },
   "active": "dd57ff55c55c3c67",
   "lastOpenFiles": [
+    "raw/人工智慧時代來臨！ASR語音轉文字技術創新與實際應用.md",
+    "raw/ASR語音AI生態系｜最新ASR模型myVoca誕生!更快更準更省｜台灣大哥大企業服務.md",
+    "raw/2026年最推AI會議記錄神器，省時省力的開會必備工具！.md",
+    "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
+    "templates/daily-template.md",
     "wiki/synthesis/AI會議記錄工具比較表.md",
     "index.md",
     "log.md",
     "歡迎.md",
     "文章追蹤.md",
-    "templates/daily-template.md",
     "wiki/sources/twm-myvoca-asr.md",
     "wiki/sources/largitdata-asr-technology.md",
     "未命名.base",
@@ -224,7 +228,6 @@
     "wiki/entities/NotebookLM.md",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
-    "raw/人工智慧時代來臨！ASR語音轉文字技術創新與實際應用.md",
     "daily/2026-07-02.md",
     "未命名.md",
     "templates",
@@ -238,9 +241,6 @@
     "wiki/entities/Notta.md",
     "wiki/concepts/AI會議記錄工作流.md",
     "wiki/entities/Plaud.md",
-    "wiki/entities/雅婷逐字稿.md",
-    "wiki/entities/Vurbo-ai.md",
-    "wiki/entities/Vocol-ai.md",
     "未命名 1",
     "未命名",
     "wiki/synthesis",
