@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
+                "file": "wiki/synthesis/AI會議記錄工具比較表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選"
+              "title": "AI會議記錄工具比較表"
             }
           }
         ]
@@ -211,15 +211,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62b2b35d1276bc54",
+  "active": "dd57ff55c55c3c67",
   "lastOpenFiles": [
+    "wiki/entities/Tinrec.md",
+    "wiki/entities/Vocol-ai.md",
+    "wiki/entities/Litok.md",
+    "wiki/entities/cSubtitle.md",
+    "wiki/entities/Wispr-Flow.md",
+    "wiki/entities/AudioPen.md",
+    "wiki/entities/Typeless.md",
+    "wiki/entities/Memo-AI.md",
+    "wiki/entities/RecCloud.md",
+    "wiki/entities/tl;dv.md",
+    "wiki/entities/Vurbo-ai.md",
+    "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
+    "templates/daily-template.md",
     "wiki/sources/tinrec-taiwanese-asr.md",
     "wiki/sources/104-voicetext-5tools.md",
     "wiki/sources/leadingmrk-8tools-comparison.md",
     "wiki/sources/tinrec-9tools-2026.md",
     "wiki/sources/tinrec-5tools-guide.md",
     "daily/2026-07-02.md",
-    "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
     "raw/2026 AI 會議記錄工具推薦：5款高效錄音轉文字軟體評測與選擇指南.md",
     "raw/2026 最新 9 款 AI 會議記錄工具推薦：解決逐字稿整理耗時痛點.md",
     "raw/【AI語音筆記】超推薦5個AI轉文字工具！幫你生成逐字稿與會議記錄重點，免費vs訂閱、優缺點評比｜104職場力.md",
@@ -227,18 +239,6 @@
     "wiki/sources/104-ai-meeting-tutorial.md",
     "wiki/synthesis/AI會議記錄工具比較表.md",
     "wiki/entities/Easemate-AI.md",
-    "wiki/entities/inFin.md",
-    "wiki/entities/Meeting-Ink.md",
-    "wiki/entities/MyEdit.md",
-    "wiki/entities/myVoca.md",
-    "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
-    "raw/人工智慧時代來臨！ASR語音轉文字技術創新與實際應用.md",
-    "raw/ASR語音AI生態系｜最新ASR模型myVoca誕生!更快更準更省｜台灣大哥大企業服務.md",
-    "raw/2026年最推AI會議記錄神器，省時省力的開會必備工具！.md",
-    "templates/daily-template.md",
-    "index.md",
-    "log.md",
-    "歡迎.md",
     "未命名.base",
     "未命名 1.base",
     "templates",

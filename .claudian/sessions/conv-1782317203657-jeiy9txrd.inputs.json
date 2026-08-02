@@ -115,7 +115,8 @@
       "canonicalText": "我有丟幾個新的文章上去 幫我整理一下",
       "images": [],
       "contentDigest": "08653b3af03d766cc358097c0cb3cd83f404d47861045db2196415a4777617a6",
-      "providerUserMessageId": "4a9e7666-df2d-4253-9bc8-700ea4bd7b65"
+      "providerUserMessageId": "4a9e7666-df2d-4253-9bc8-700ea4bd7b65",
+      "providerAssistantMessageId": "9d3a5b47-a908-4c69-a2d8-98f4d10ad9aa"
     }
   ]
 }
