@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1782317203657-jeiy9txrd",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785654205770-xlsgz7f",
+      "userTurnOrdinal": 30,
+      "state": "accepted",
+      "localMessageId": "msg-1785654205740-dr6kkey",
+      "timestamp": 1785654205740,
+      "rawDisplayText": "幫我把我之前整理好的會議記錄工具比較表同步到github",
+      "canonicalText": "幫我把我之前整理好的會議記錄工具比較表同步到github",
+      "images": [],
+      "contentDigest": "540528a92cec6959c5bb89f94d26b48b82f4a3ba762c6f92699b3d8fe667e1b4",
+      "providerUserMessageId": "eeddfc42-b802-4dcd-9db0-7baf9e503361"
+    }
+  ]
+}
