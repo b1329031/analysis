@@ -103,6 +103,19 @@
       "contentDigest": "06f08cdb83b3ab149b3e12aa26c62abbbe29b52384a0e3d5929738198ec9cc15",
       "providerUserMessageId": "1dee981c-2af4-4afc-a6ef-2e8b84aad403",
       "providerAssistantMessageId": "2f4d5508-94cc-46b6-942c-bad3e66f5f5c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785655502399-5oysjwk",
+      "userTurnOrdinal": 36,
+      "state": "accepted",
+      "localMessageId": "msg-1785655502391-dxn0eaw",
+      "timestamp": 1785655502391,
+      "rawDisplayText": "我有丟幾個新的文章上去 幫我整理一下",
+      "canonicalText": "我有丟幾個新的文章上去 幫我整理一下",
+      "images": [],
+      "contentDigest": "08653b3af03d766cc358097c0cb3cd83f404d47861045db2196415a4777617a6",
+      "providerUserMessageId": "4a9e7666-df2d-4253-9bc8-700ea4bd7b65"
     }
   ]
 }

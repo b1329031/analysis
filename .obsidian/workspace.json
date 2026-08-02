@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/104-ai-meeting-tutorial.md",
+                "file": "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "104-ai-meeting-tutorial"
+              "title": "【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選"
             }
           }
         ]
@@ -213,6 +213,18 @@
   },
   "active": "62b2b35d1276bc54",
   "lastOpenFiles": [
+    "wiki/sources/tinrec-taiwanese-asr.md",
+    "wiki/sources/104-voicetext-5tools.md",
+    "wiki/sources/leadingmrk-8tools-comparison.md",
+    "wiki/sources/tinrec-9tools-2026.md",
+    "wiki/sources/tinrec-5tools-guide.md",
+    "daily/2026-07-02.md",
+    "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
+    "raw/2026 AI 會議記錄工具推薦：5款高效錄音轉文字軟體評測與選擇指南.md",
+    "raw/2026 最新 9 款 AI 會議記錄工具推薦：解決逐字稿整理耗時痛點.md",
+    "raw/【AI語音筆記】超推薦5個AI轉文字工具！幫你生成逐字稿與會議記錄重點，免費vs訂閱、優缺點評比｜104職場力.md",
+    "raw/AI 語音轉文字工具推薦：8 款比較，會議記錄、逐字稿、語音輸入哪個最適合你？.md",
+    "wiki/sources/104-ai-meeting-tutorial.md",
     "wiki/synthesis/AI會議記錄工具比較表.md",
     "wiki/entities/Easemate-AI.md",
     "wiki/entities/inFin.md",
@@ -227,22 +239,10 @@
     "index.md",
     "log.md",
     "歡迎.md",
-    "文章追蹤.md",
-    "wiki/sources/twm-myvoca-asr.md",
-    "wiki/sources/largitdata-asr-technology.md",
     "未命名.base",
     "未命名 1.base",
-    "wiki/entities/NotebookLM.md",
-    "Untitled Kanban.md",
-    "Untitled Kanban 1.md",
-    "daily/2026-07-02.md",
-    "未命名.md",
     "templates",
     "daily",
-    "wiki/entities/tl;dv.md",
-    "wiki/entities/Smartshoki.md",
-    "wiki/entities/Otter-ai.md",
-    "CLAUDE.md",
     "未命名 1",
     "未命名",
     "wiki/synthesis",
