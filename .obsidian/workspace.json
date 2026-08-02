@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/entities/Easemate-AI.md",
+                "file": "wiki/synthesis/AI會議記錄工具比較表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Easemate-AI"
+              "title": "AI會議記錄工具比較表"
             }
           }
         ]
@@ -211,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd57ff55c55c3c67",
+  "active": "62b2b35d1276bc54",
   "lastOpenFiles": [
+    "wiki/entities/Easemate-AI.md",
     "wiki/entities/inFin.md",
     "wiki/entities/Meeting-Ink.md",
     "wiki/entities/MyEdit.md",
@@ -242,7 +243,6 @@
     "wiki/entities/Smartshoki.md",
     "wiki/entities/Otter-ai.md",
     "CLAUDE.md",
-    "wiki/concepts/ASR技術.md",
     "未命名 1",
     "未命名",
     "wiki/synthesis",
