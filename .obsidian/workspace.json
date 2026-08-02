@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/synthesis/AI會議記錄工具比較表.md",
+                "file": "wiki/entities/Meeting-Ink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI會議記錄工具比較表"
+              "title": "Meeting-Ink"
             }
           }
         ]
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 530.55859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +213,8 @@
   },
   "active": "dd57ff55c55c3c67",
   "lastOpenFiles": [
+    "wiki/synthesis/AI會議記錄工具比較表.md",
+    "Meeting Ink.md",
     "wiki/entities/Tinrec.md",
     "wiki/entities/Vocol-ai.md",
     "wiki/entities/Litok.md",
@@ -237,8 +239,6 @@
     "raw/【AI語音筆記】超推薦5個AI轉文字工具！幫你生成逐字稿與會議記錄重點，免費vs訂閱、優缺點評比｜104職場力.md",
     "raw/AI 語音轉文字工具推薦：8 款比較，會議記錄、逐字稿、語音輸入哪個最適合你？.md",
     "wiki/sources/104-ai-meeting-tutorial.md",
-    "wiki/synthesis/AI會議記錄工具比較表.md",
-    "wiki/entities/Easemate-AI.md",
     "未命名.base",
     "未命名 1.base",
     "templates",
