@@ -3,17 +3,17 @@ title: "Otter.ai"
 type: entity
 tags: [AI工具, 會議記錄, 英文]
 created: 2026-06-24
-updated: 2026-06-25
-sources: ["2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md"]
-free_tier: false
-chinese: false
+updated: 2026-08-02
+sources: ["2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md", "leadingmrk-8tools-comparison.md"]
+free_tier: true
+chinese: true
 taiwan_made: false
 hardware: false
 ---
 
 # Otter.ai
 
-美國 AI 會議記錄工具，以英文即時字幕見長，中文支援弱。
+美國 AI 會議記錄工具，以英文即時字幕見長；已新增簡體中文支援，但繁體中文與台語仍不適合。
 
 ## 速度（26分鐘英文音檔）
 
@@ -34,12 +34,14 @@ hardware: false
 ## 限制
 
 - 測試中出現生成速度極慢或無法完成的情況，穩定性有疑慮
-- 中文辨識能力弱，甚至出現完全無法辨識的情況
+- **繁體中文辨識能力弱**，在英文為主的測試中甚至出現完全無法辨識的情況
 - 免費版無法查看完整逐字稿
+- **⚠️ 矛盾**：[[tinrec-5tools-guide]] 稱「Otter.ai 不支援中文」，但 [[leadingmrk-8tools-comparison]]（2026-07-31）確認現已支援**簡體中文**。可能是更新時間差異，或指的是繁體中文仍不支援。
 
 ## 定價
 
-- PRO：US$16.99/月 or US$99.99/年（20小時/月）
+- 免費：300 分鐘/月（來源：[[leadingmrk-8tools-comparison]]）
+- PRO：US$8.33/月（年付）or US$16.99/月（20小時/月）
 - Business：US$30/月 or US$240/年（100小時/月）
 
 ## 適合對象

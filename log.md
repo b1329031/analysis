@@ -44,3 +44,7 @@ Notes: 技術深度文，涵蓋ASR四階段發展、2026串流辨識趨勢、生
 ## [2026-06-25] edit | 強化 Wiki 結構（Dataview + 統一欄位 + wikilink）
 Files touched: 全部 18 個 entities/*.md（frontmatter），wiki/synthesis/AI會議記錄工具比較表.md，index.md
 Notes: 為所有 entity 頁面新增 free_tier / chinese / taiwan_made / hardware 四個統一欄位；比較表改為 Dataview 動態查詢（支援篩選免費/中文/本土工具）；index.md 改為 Dataview 自動統計；補強各 entity 頁面之間的 wikilink 交叉連結。
+
+## [2026-08-02] ingest | 5篇新文章（Tinrec部落格 × 3、leadingmrk、104職場力）
+Files touched: sources/tinrec-5tools-guide.md, sources/tinrec-9tools-2026.md, sources/leadingmrk-8tools-comparison.md, sources/104-voicetext-5tools.md, sources/tinrec-taiwanese-asr.md, entities/Tinrec.md, entities/RecCloud.md, entities/Memo-AI.md, entities/Typeless.md, entities/AudioPen.md, entities/Wispr-Flow.md, entities/cSubtitle.md, entities/Litok.md, entities/Otter-ai.md（更新）, entities/雅婷逐字稿.md（更新）, wiki/synthesis/AI會議記錄工具比較表.md（更新）, index.md
+Notes: 新增 8 款工具（Tinrec、RecCloud、Memo AI、Typeless、AudioPen、Wispr Flow、cSubtitle、Litok）；更新 Otter.ai（補充簡體中文支援與免費方案 300分/月）；更新雅婷逐字稿（補充一次性 300 分鐘免費試用）；比較表加入新工具、修正資料、更新決策樹與注意事項；引入「語音輸入法」與「語音筆記」新類別。
