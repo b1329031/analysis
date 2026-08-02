@@ -9,90 +9,101 @@ sources: ["2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速�
 
 # AI會議記錄工具比較表
 
-> 整合所有已收錄的 AI 會議記錄工具，支援動態篩選。
+> 整合所有已收錄的 AI 會議記錄工具。
 
 ---
 
-## 所有工具總覽（動態）
+## 所有工具總覽
 
-```dataview
-TABLE WITHOUT ID
-  file.link AS "工具",
-  chinese AS "中文支援",
-  free_tier AS "有免費方案",
-  taiwan_made AS "台灣本土",
-  hardware AS "需要硬體",
-  join(tags, ", ") AS "標籤"
-FROM "wiki/entities"
-WHERE file.name != ".gitkeep"
-SORT taiwan_made DESC, free_tier DESC, file.name ASC
-```
+| 工具 | 中文支援 | 有免費方案 | 台灣本土 | 需要硬體 |
+|------|----------|------------|----------|----------|
+| [[Meeting Ink]] | ✔ | ✘ | ✔ | ✘ |
+| [[MyEdit]] | ✔ | ✔ | ✔ | ✘ |
+| [[myVoca]] | ✔ | ✘ | ✔ | ✘ |
+| [[雅婷逐字稿]] | ✔ | ✘ | ✔ | ✘ |
+| [[CLOVA Note]] | ✔ | ✔ | ✘ | ✘ |
+| [[Easemate AI]] | ✔ | ✔ | ✘ | ✘ |
+| [[inFin]] | ✔ | ✔ | ✘ | ✘ |
+| [[Notta]] | ✔ | ✔ | ✘ | ✘ |
+| [[NotebookLM]] | ✔ | ✔ | ✘ | ✘ |
+| [[Plaud]] | ✔ | ✔ | ✘ | ✔ |
+| [[SeaMeet]] | ✔ | ✘ | ✘ | ✘ |
+| [[tl;dv]] | ✔ | ✔ | ✘ | ✘ |
+| [[Vocol.ai]] | ✔ | ✘ | ✘ | ✘ |
+| [[Vurbo.ai]] | ✔ | ✘ | ✘ | ✘ |
+| [[Good Tape]] | ✔ | ✘ | ✘ | ✘ |
+| [[Otter.ai]] | ✘ | ✘ | ✘ | ✘ |
+| [[Smartshoki]] | ✘ | ✘ | ✘ | ✘ |
+| [[Rimo Voice]] | ✘ | ✘ | ✘ | ✘ |
 
 ---
 
 ## 只看有免費方案的工具
 
-```dataview
-TABLE WITHOUT ID
-  file.link AS "工具",
-  chinese AS "中文支援",
-  taiwan_made AS "台灣本土",
-  join(tags, ", ") AS "標籤"
-FROM "wiki/entities"
-WHERE free_tier = true AND file.name != ".gitkeep"
-SORT taiwan_made DESC, file.name ASC
-```
+| 工具 | 中文支援 | 台灣本土 |
+|------|----------|----------|
+| [[MyEdit]] | ✔ | ✔ |
+| [[CLOVA Note]] | ✔ | ✘ |
+| [[Easemate AI]] | ✔ | ✘ |
+| [[inFin]] | ✔ | ✘ |
+| [[Notta]] | ✔ | ✘ |
+| [[NotebookLM]] | ✔ | ✘ |
+| [[Plaud]] | ✔ | ✘ |
+| [[tl;dv]] | ✔ | ✘ |
 
 ---
 
 ## 只看支援中文的工具
 
-```dataview
-TABLE WITHOUT ID
-  file.link AS "工具",
-  free_tier AS "有免費方案",
-  taiwan_made AS "台灣本土",
-  hardware AS "需要硬體"
-FROM "wiki/entities"
-WHERE chinese = true AND file.name != ".gitkeep"
-SORT taiwan_made DESC, free_tier DESC, file.name ASC
-```
+| 工具 | 有免費方案 | 台灣本土 | 需要硬體 |
+|------|------------|----------|----------|
+| [[Meeting Ink]] | ✘ | ✔ | ✘ |
+| [[MyEdit]] | ✔ | ✔ | ✘ |
+| [[myVoca]] | ✘ | ✔ | ✘ |
+| [[雅婷逐字稿]] | ✘ | ✔ | ✘ |
+| [[CLOVA Note]] | ✔ | ✘ | ✘ |
+| [[Easemate AI]] | ✔ | ✘ | ✘ |
+| [[inFin]] | ✔ | ✘ | ✘ |
+| [[Notta]] | ✔ | ✘ | ✘ |
+| [[NotebookLM]] | ✔ | ✘ | ✘ |
+| [[Plaud]] | ✔ | ✘ | ✔ |
+| [[SeaMeet]] | ✘ | ✘ | ✘ |
+| [[tl;dv]] | ✔ | ✘ | ✘ |
+| [[Vocol.ai]] | ✘ | ✘ | ✘ |
+| [[Vurbo.ai]] | ✘ | ✘ | ✘ |
+| [[Good Tape]] | ✘ | ✘ | ✘ |
 
 ---
 
 ## 台灣本土工具
 
-```dataview
-TABLE WITHOUT ID
-  file.link AS "工具",
-  free_tier AS "有免費方案",
-  chinese AS "中文支援",
-  join(tags, ", ") AS "標籤"
-FROM "wiki/entities"
-WHERE taiwan_made = true AND file.name != ".gitkeep"
-SORT file.name ASC
-```
+| 工具 | 有免費方案 | 中文支援 |
+|------|------------|----------|
+| [[Meeting Ink]] | ✘ | ✔ |
+| [[MyEdit]] | ✔ | ✔ |
+| [[myVoca]] | ✘ | ✔ |
+| [[雅婷逐字稿]] | ✘ | ✔ |
 
 ---
 
-## 速度實測比較（靜態，2026年測試，26分鐘英文音檔）
+## 速度實測比較（2026年測試，26分鐘英文音檔）
 
 > 速度數據來源：[[ai-meeting-tools-benchmark-2026]]（Meeting Ink 官方，具立場偏向）
 
-| 工具              | 上傳                | 轉文字         | 摘要          | 即時字幕 | 語者分段 |
-| --------------- | ----------------- | ----------- | ----------- | ---- | ---- |
-| [[Meeting Ink]] | 55秒               | 1分58秒       | **26秒** ★最快 | ✔    | ✔    |
-| [[SeaMeet]]     | 1分02秒             | 合計 3分46秒    | ←           | ✔    | ✔    |
-| [[Vocol.ai]]    | 1分53秒             | 3分29秒       | 1分23秒       | ✘    | ✔    |
-| [[Otter.ai]]    | 1分11秒             | 3分35秒       | 2分38秒       | ✔    | ✔    |
-| [[Vurbo.ai]]    | 合計 **12分51秒** ★最慢 | ←           | **18秒** ★最快 | ✔    | ✘    |
-| [[Plaud]]       | **26秒** ★         | **49秒** ★最快 | 1分03秒       | ✘    | ✘    |
-| [[雅婷逐字稿]]       | **17秒** ★最快       | 4分34秒       | 50秒（不穩）     | ✘    | ✔    |
-| [[Good Tape]]   | 1分41秒             | 1小時以上       | 不支援         | ✘    | ✘    |
+| 工具 | 上傳 | 轉文字 | 摘要 | 即時字幕 | 語者分段 |
+|------|------|--------|------|----------|----------|
+| [[Meeting Ink]] | 55秒 | 1分58秒 | **26秒** ★最快 | ✔ | ✔ |
+| [[SeaMeet]] | 1分02秒 | 合計 3分46秒 | ← | ✔ | ✔ |
+| [[Vocol.ai]] | 1分53秒 | 3分29秒 | 1分23秒 | ✘ | ✔ |
+| [[Otter.ai]] | 1分11秒 | 3分35秒 | 2分38秒 | ✔ | ✔ |
+| [[Vurbo.ai]] | 合計 **12分51秒** ★最慢 | ← | **18秒** ★最快 | ✔ | ✘ |
+| [[Plaud]] | **26秒** ★ | **49秒** ★最快 | 1分03秒 | ✘ | ✘ |
+| [[雅婷逐字稿]] | **17秒** ★最快 | 4分34秒 | 50秒（不穩） | ✘ | ✔ |
+| [[Good Tape]] | 1分41秒 | 1小時以上 | 不支援 | ✘ | ✘ |
 
 ---
 
-## 定價比較（靜態）
+## 定價比較
 
 | 工具 | 免費方案 | 入門付費 | 計費方式 |
 |------|----------|----------|----------|
@@ -154,5 +165,5 @@ SORT file.name ASC
 - 速度數據測試條件為免費版 + 26分鐘英文音檔，付費版或中文音檔結果可能不同
 - [[Meeting Ink]] 評測來自其官方部落格，具有立場偏向
 - [[Plaud]] Top5 排行由 Plaud 官方撰寫，自評第一，立場偏向
-- [[CyberLink]] 文章主推 [[MyEdit]]，具商業立場
+- [[MyEdit]] 文章由 CyberLink 官方撰寫，具商業立場
 - AI 摘要可能虛構內容，重要會議記錄需人工驗證
