@@ -61,6 +61,48 @@
       "contentDigest": "37ef37e8bc818714e81d9b3c5a15fba358bba3089a174a35005086e55c771d1f",
       "providerUserMessageId": "9784d4d8-baa4-4f88-84df-d101bd3039ec",
       "providerAssistantMessageId": "72931e04-d557-45d5-8638-0bc5fe56a851"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785654518475-p79mn6q",
+      "userTurnOrdinal": 33,
+      "state": "accepted",
+      "localMessageId": "msg-1785654518469-apau8qp",
+      "timestamp": 1785654518469,
+      "rawDisplayText": "那我要怎麼顯示表格再github上面",
+      "canonicalText": "那我要怎麼顯示表格再github上面",
+      "images": [],
+      "contentDigest": "d60e48c0e47bbd73fa123102b0863e0975c4e0316092183bbdd0d0d33734dde6",
+      "providerUserMessageId": "5d74bbe2-5791-49eb-bb79-83e69363837b",
+      "providerAssistantMessageId": "3768fb2f-44fc-4dec-b6eb-f2b1048b66f1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785654594972-ql6dyih",
+      "userTurnOrdinal": 34,
+      "state": "accepted",
+      "localMessageId": "msg-1785654594968-t129gqi",
+      "timestamp": 1785654594968,
+      "rawDisplayText": "GitHub 上好看（改成靜態表格，但失去自動更新功能） 所以我之後新增工具的話我要跟你講你才會幫我更新是嗎",
+      "canonicalText": "GitHub 上好看（改成靜態表格，但失去自動更新功能） 所以我之後新增工具的話我要跟你講你才會幫我更新是嗎",
+      "images": [],
+      "contentDigest": "2e1eb5bdb6d2fb81dd533813ca9bc45df7eef3ae8e18b3508c4265deaac3238b",
+      "providerUserMessageId": "e93af3f1-b28a-4778-9451-5af8af4db653",
+      "providerAssistantMessageId": "3bfaa37c-3bb9-4134-8384-eaa4b1eb7b6c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785654603671-u53s2xt",
+      "userTurnOrdinal": 35,
+      "state": "accepted",
+      "localMessageId": "msg-1785654603665-azbnb2e",
+      "timestamp": 1785654603665,
+      "rawDisplayText": "好啊",
+      "canonicalText": "好啊",
+      "images": [],
+      "contentDigest": "06f08cdb83b3ab149b3e12aa26c62abbbe29b52384a0e3d5929738198ec9cc15",
+      "providerUserMessageId": "1dee981c-2af4-4afc-a6ef-2e8b84aad403",
+      "providerAssistantMessageId": "2f4d5508-94cc-46b6-942c-bad3e66f5f5c"
     }
   ]
 }
