@@ -11,14 +11,10 @@
             "id": "dd57ff55c55c3c67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/entities/Otter-ai.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Otter-ai"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
         ]
@@ -192,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.55859375
+    "width": 299.8359375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +209,8 @@
   },
   "active": "dd57ff55c55c3c67",
   "lastOpenFiles": [
+    "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
+    "wiki/entities/Notta.md",
     "wiki/entities/NotebookLM.md",
     "wiki/entities/Otter-ai.md",
     "wiki/entities/Litok.md",
@@ -224,7 +222,6 @@
     "wiki/entities/Meeting-Ink.md",
     "wiki/entities/inFin.md",
     "wiki/entities/Easemate-AI.md",
-    "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
     "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
     "raw/【AI語音筆記】超推薦5個AI轉文字工具！幫你生成逐字稿與會議記錄重點，免費vs訂閱、優缺點評比｜104職場力.md",
     "wiki/synthesis/AI會議記錄工具比較表.md",
@@ -238,7 +235,6 @@
     "wiki/entities/tl;dv.md",
     "wiki/entities/Vurbo-ai.md",
     "templates/daily-template.md",
-    "wiki/sources/tinrec-taiwanese-asr.md",
     "未命名.base",
     "未命名 1.base",
     "templates",
