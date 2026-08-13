@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.8359375
+    "width": 585.78125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +222,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4e58681d5fc3f459",
+  "active": "21466955c26a57b5",
   "lastOpenFiles": [
     "文章追蹤.md",
     "歡迎.md",

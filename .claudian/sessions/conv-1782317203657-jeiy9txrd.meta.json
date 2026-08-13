@@ -4,7 +4,7 @@
   "title": "Convert content to Traditional Chinese",
   "titleGenerationStatus": "success",
   "createdAt": 1782317203671,
-  "lastActivityAt": 1786635574064,
+  "lastActivityAt": 1786637002852,
   "sessionId": "71168ee8-21b2-48ba-a3e2-be6e993b2199",
   "selectedModel": "sonnet",
   "providerState": {
@@ -12,11 +12,11 @@
   },
   "usage": {
     "model": "sonnet",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 655,
-    "cacheReadInputTokens": 83287,
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 74771,
+    "cacheReadInputTokens": 11085,
     "contextWindow": 1000000,
-    "contextTokens": 83943,
-    "percentage": 8
+    "contextTokens": 85858,
+    "percentage": 9
   }
 }
