@@ -2,23 +2,32 @@
   "choices": [
     {
       "id": "eafaa06e-177c-4c1e-953d-d5e7519d75bf",
-      "name": "New capture",
+      "name": "靈感",
       "type": "Capture",
-      "command": false,
-      "appendLink": false,
+      "command": true,
+      "appendLink": {
+        "enabled": true,
+        "placement": "replaceSelection",
+        "requireActiveFile": false,
+        "linkType": "link",
+        "displayText": "none",
+        "destination": {
+          "type": "activeFile"
+        }
+      },
       "copyLinkToClipboard": false,
-      "captureTo": "",
+      "captureTo": "daily/",
       "captureToActiveFile": false,
       "captureToCanvasNodeId": "",
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
-        "enabled": false,
+        "enabled": true,
         "createWithTemplate": false,
         "template": ""
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "- {{DATE:HH:mm}} {{VALUE}}"
       },
       "insertAfter": {
         "enabled": false,
@@ -42,7 +51,7 @@
         "enabled": false,
         "direction": "below"
       },
-      "prepend": false,
+      "prepend": true,
       "task": false,
       "openFile": false,
       "fileOpening": {
