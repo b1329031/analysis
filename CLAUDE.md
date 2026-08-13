@@ -12,7 +12,8 @@
 │   ├── entities/         # 人物、組織、地點、產品
 │   ├── concepts/         # 觀念、主題、框架、術語
 │   ├── sources/          # 每份原始資料對應一頁摘要
-│   └── analyses/         # 值得保存的查詢解答
+│   ├── analyses/         # 值得保存的查詢解答
+│   └── synthesis/        # 跨來源整合分析（比較表、決策樹等）
 ├── index.md              # 所有 Wiki 頁面的總目錄
 ├── log.md                # 僅供附加的活動紀錄
 └── CLAUDE.md             # 本檔案
@@ -26,7 +27,7 @@
 ```yaml
 ---
 title: "Page Title"
-type: entity | concept | source | analysis
+type: entity | concept | source | analysis | synthesis
 tags: []
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -112,6 +113,7 @@ sources: []          # 此頁面所引用的原始資料檔案清單
 - Entities
 - Concepts
 - Analyses
+- Synthesis
 
 每筆條目格式：`- [[Page Title]] — 一行描述 *(N sources)*`
 
