@@ -7,7 +7,7 @@
       "command": true,
       "appendLink": {
         "enabled": true,
-        "placement": "replaceSelection",
+        "placement": "newLine",
         "requireActiveFile": false,
         "linkType": "link",
         "displayText": "none",

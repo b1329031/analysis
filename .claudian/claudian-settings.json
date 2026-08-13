@@ -33,6 +33,7 @@
       "enableChrome": false,
       "enableBangBash": false,
       "customModels": "",
+      "defaultModel": "opus",
       "lastModel": "opus",
       "modelEnvironmentType": "",
       "titleModelEnvironmentType": "",
@@ -95,6 +96,10 @@
     }
   },
   "settingsProvider": "claude",
+  "lastSelectedChatModel": {
+    "providerId": "claude",
+    "model": "opus"
+  },
   "savedProviderModel": {
     "claude": "opus"
   },
@@ -108,10 +113,17 @@
   },
   "pendingProviderSessionInvalidations": {},
   "lastCustomModel": "",
-  "maxTabs": 3,
+  "maxWarmAgentProcesses": 5,
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
-  "hiddenProviderCommands": {}
+  "enableDualPane": true,
+  "enableFilePane": true,
+  "dualPaneSide": "right",
+  "sessionManagerOrganization": "list",
+  "sessionManagerSort": "last-updated",
+  "pinnedLinkedNotePaths": [],
+  "hiddenProviderCommands": {},
+  "maxTabs": 3
 }
