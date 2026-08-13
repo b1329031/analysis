@@ -7,5 +7,8 @@
   "dataview",
   "obsidian-kanban",
   "obsidian-git",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "tag-wrangler",
+  "omnisearch",
+  "quickadd"
 ]

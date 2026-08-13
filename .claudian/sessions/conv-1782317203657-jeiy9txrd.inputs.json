@@ -168,6 +168,20 @@
       "contentDigest": "f13f2b1a3c7354fbf42c54d54e9cd66ee863aff6441cebf539113e5cbbc71de5",
       "providerUserMessageId": "2477012b-a77e-4245-8f48-d6c62e51bad9",
       "providerAssistantMessageId": "7b70a1cf-b0d1-40bb-ba14-e3b40593410d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786632204520-jnfd7v8",
+      "userTurnOrdinal": 40,
+      "state": "accepted",
+      "localMessageId": "msg-1786632204516-2m7ih23",
+      "timestamp": 1786632204516,
+      "rawDisplayText": "omnisearch要怎設置快捷鍵啊",
+      "canonicalText": "omnisearch要怎設置快捷鍵啊",
+      "images": [],
+      "contentDigest": "ac22f43301e73d3c3a38f4aef7bc900c0c0b58ae0aa43ba1bd7078a53935ebd2",
+      "providerUserMessageId": "3401ab44-28c8-4f2c-96e6-715653432f68",
+      "providerAssistantMessageId": "4d5655e3-7ac8-459f-915e-ca37f0b29d4a"
     }
   ]
 }
