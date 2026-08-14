@@ -11,14 +11,10 @@
             "id": "4e58681d5fc3f459",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
         ]
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +163,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,13 +216,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "21466955c26a57b5",
+  "active": "4e58681d5fc3f459",
   "lastOpenFiles": [
+    "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
     "raw/【AI語音筆記】超推薦5個AI轉文字工具！幫你生成逐字稿與會議記錄重點，免費vs訂閱、優缺點評比｜104職場力.md",
     "raw/AI 會議記錄軟體推薦：5 大 App 實測評比，自動轉文字讓你開會超輕鬆！.md",
     "CLAUDE.md",
     "raw/2026 AI 會議記錄工具推薦：5款高效錄音轉文字軟體評測與選擇指南.md",
-    "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
     "daily/0813.md",
     "歡迎.md",
     "文章追蹤.md",
