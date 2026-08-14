@@ -11,10 +11,14 @@
             "id": "4e58681d5fc3f459",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "raw/assets/指令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "指令"
             }
           }
         ]
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/assets/指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "raw/assets/指令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,6 +224,9 @@
   },
   "active": "4e58681d5fc3f459",
   "lastOpenFiles": [
+    "permissions.png",
+    "raw/assets/指令.md",
+    "未命名",
     "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
     "raw/【AI語音筆記】超推薦5個AI轉文字工具！幫你生成逐字稿與會議記錄重點，免費vs訂閱、優缺點評比｜104職場力.md",
     "raw/AI 會議記錄軟體推薦：5 大 App 實測評比，自動轉文字讓你開會超輕鬆！.md",
@@ -243,13 +252,10 @@
     "raw/2026年最推AI會議記錄神器，省時省力的開會必備工具！.md",
     "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
     "wiki/entities/Notta.md",
-    "wiki/entities/NotebookLM.md",
-    "wiki/entities/Otter-ai.md",
     "未命名.base",
     "未命名 1.base",
     "templates",
     "未命名 1",
-    "未命名",
     "wiki/synthesis",
     "wiki/sources",
     "wiki/entities",
