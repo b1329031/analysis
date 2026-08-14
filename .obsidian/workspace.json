@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大綱"
+              "title": "大綱"
             }
           },
           {
@@ -197,7 +197,8 @@
               "title": "Claudian"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -221,13 +222,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4e58681d5fc3f459",
+  "active": "21466955c26a57b5",
   "lastOpenFiles": [
+    "raw/【AI語音筆記】超推薦5個AI轉文字工具！幫你生成逐字稿與會議記錄重點，免費vs訂閱、優缺點評比｜104職場力.md",
+    "raw/AI 會議記錄軟體推薦：5 大 App 實測評比，自動轉文字讓你開會超輕鬆！.md",
+    "CLAUDE.md",
     "raw/2026 AI 會議記錄工具推薦：5款高效錄音轉文字軟體評測與選擇指南.md",
     "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
     "daily/0813.md",
-    "raw/【AI語音筆記】超推薦5個AI轉文字工具！幫你生成逐字稿與會議記錄重點，免費vs訂閱、優缺點評比｜104職場力.md",
-    "CLAUDE.md",
     "歡迎.md",
     "文章追蹤.md",
     "log.md",
@@ -249,7 +251,6 @@
     "wiki/entities/Notta.md",
     "wiki/entities/NotebookLM.md",
     "wiki/entities/Otter-ai.md",
-    "wiki/entities/Litok.md",
     "未命名.base",
     "未命名 1.base",
     "templates",
