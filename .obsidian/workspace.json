@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/test.md",
+                "file": "raw/assets/指令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "指令"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名/test.md",
+                "file": "raw/assets/指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名/test.md",
+                "file": "raw/assets/指令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,13 +219,15 @@
       "realclaudian:Open Claudian": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e58681d5fc3f459",
+  "active": "62b2b35d1276bc54",
   "lastOpenFiles": [
-    "raw/assets/指令.md",
     "未命名/test.md",
+    "daily/0813.md",
+    "raw/assets/指令.md",
     "未命名/test",
     "permissions.png",
     "未命名",
@@ -234,7 +236,6 @@
     "raw/AI 會議記錄軟體推薦：5 大 App 實測評比，自動轉文字讓你開會超輕鬆！.md",
     "CLAUDE.md",
     "raw/2026 AI 會議記錄工具推薦：5款高效錄音轉文字軟體評測與選擇指南.md",
-    "daily/0813.md",
     "歡迎.md",
     "文章追蹤.md",
     "log.md",
