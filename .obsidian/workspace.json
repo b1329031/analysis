@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/assets/指令.md",
+                "file": "未命名/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "指令"
+              "title": "test"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/assets/指令.md",
+                "file": "未命名/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/assets/指令.md",
+                "file": "未命名/test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,8 +224,10 @@
   },
   "active": "4e58681d5fc3f459",
   "lastOpenFiles": [
-    "permissions.png",
     "raw/assets/指令.md",
+    "未命名/test.md",
+    "未命名/test",
+    "permissions.png",
     "未命名",
     "raw/【語音轉文字】5款AI工具支援台語實測對比：會議紀錄與逐字稿怎麼選.md",
     "raw/【AI語音筆記】超推薦5個AI轉文字工具！幫你生成逐字稿與會議記錄重點，免費vs訂閱、優缺點評比｜104職場力.md",
@@ -258,7 +260,6 @@
     "未命名 1",
     "wiki/synthesis",
     "wiki/sources",
-    "wiki/entities",
-    "wiki/concepts"
+    "wiki/entities"
   ]
 }
