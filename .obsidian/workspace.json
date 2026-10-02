@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "be7975ed41206d1b",
+            "id": "e4ad2a08db9a8ec6",
             "type": "leaf",
             "state": {
               "type": "capstone-dashboard",
@@ -269,7 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 584.8046875
+    "width": 201.3984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,7 +293,7 @@
       "capstone-dashboard:開啟專題看板": false
     }
   },
-  "active": "be7975ed41206d1b",
+  "active": "e4ad2a08db9a8ec6",
   "lastOpenFiles": [
     "wiki/sources/persistent-speaker-attribution.md",
     "templates/會議紀錄範本.md",
