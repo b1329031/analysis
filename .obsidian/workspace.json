@@ -41,8 +41,7 @@
               "title": "關聯圖檢視"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,13 +288,13 @@
       "capstone-dashboard:開啟專題看板": false
     }
   },
-  "active": "630655356f433208",
+  "active": "c3ed7138c6987b31",
   "lastOpenFiles": [
+    "wiki/sources/persistent-speaker-attribution.md",
     "專題/roadmap.md",
     "wiki/sources/asr-error-correction-llm.md",
     "wiki/synthesis/AI會議記錄工具比較表.md",
     "wiki/sources/gladia-speaker-reid.md",
-    "wiki/sources/persistent-speaker-attribution.md",
     "templates/會議紀錄範本.md",
     "templates/功能卡範本.md",
     "專題/會議",
