@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "48f98f9b51bacd2f",
-            "type": "leaf",
-            "state": {
-              "type": "capstone-dashboard",
-              "state": {},
-              "icon": "layout-dashboard",
-              "title": "專題看板"
-            }
-          },
-          {
             "id": "63ab471a2f507949",
             "type": "leaf",
             "state": {
@@ -43,6 +33,16 @@
               },
               "icon": "lucide-file",
               "title": "roadmap"
+            }
+          },
+          {
+            "id": "be7975ed41206d1b",
+            "type": "leaf",
+            "state": {
+              "type": "capstone-dashboard",
+              "state": {},
+              "icon": "layout-dashboard",
+              "title": "專題看板"
             }
           }
         ],
@@ -293,7 +293,7 @@
       "capstone-dashboard:開啟專題看板": false
     }
   },
-  "active": "63ab471a2f507949",
+  "active": "be7975ed41206d1b",
   "lastOpenFiles": [
     "wiki/sources/persistent-speaker-attribution.md",
     "templates/會議紀錄範本.md",
