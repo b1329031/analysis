@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Speaker re-identification across recurring meetings.md",
+                "file": "wiki/sources/persistent-speaker-attribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Speaker re-identification across recurring meetings"
+              "title": "persistent-speaker-attribution"
             }
           }
         ]
@@ -82,8 +82,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           },
           {
@@ -194,8 +194,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -225,8 +225,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -235,8 +235,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -263,21 +263,23 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "capstone-dashboard:Capstone Dashboard": false
     }
   },
-  "active": "76fc50b3d132d934",
+  "active": "c3ed7138c6987b31",
   "lastOpenFiles": [
+    "wiki/sources/gladia-speaker-reid.md",
+    "wiki/sources/persistent-speaker-attribution.md",
+    "wiki/synthesis/AI會議記錄工具比較表.md",
+    "wiki/sources/asr-error-correction-llm.md",
+    "wiki/sources/multi-asr-fusion-speechllm.md",
+    "raw/Speaker re-identification across recurring meetings.md",
     "wiki/entities/ThyVoice.md",
     "wiki/entities/OpenAI-Whisper.md",
     "wiki/concepts/語者分離與辨識.md",
     "wiki/concepts/ASR錯誤修正.md",
-    "wiki/sources/gladia-speaker-reid.md",
-    "wiki/sources/persistent-speaker-attribution.md",
-    "wiki/sources/multi-asr-fusion-speechllm.md",
-    "wiki/sources/asr-error-correction-llm.md",
     "raw/Who Said What, and Will It Be Remembered? Evaluating Persistent Speaker Attribution Across Meetings.md",
-    "raw/Speaker re-identification across recurring meetings.md",
     "raw/Untitled.md",
     "raw/Better Pseudo-labeling with Multi-ASR Fusion and Error Correction by SpeechLLM.md",
     "raw/ASR Error Correction using Large Language Models.md",
@@ -296,7 +298,6 @@
     "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
     "raw/assets/指令.md",
     "wiki/sources/leadingmrk-8tools-comparison.md",
-    "wiki/synthesis/AI會議記錄工具比較表.md",
     "wiki/sources/104-ai-meeting-tutorial.md",
     "wiki/entities/Meeting-Ink.md",
     "wiki/entities/雅婷逐字稿.md",
