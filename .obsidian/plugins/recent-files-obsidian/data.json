@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "roadmap",
-      "path": "專題/roadmap.md"
-    },
-    {
       "basename": "persistent-speaker-attribution",
       "path": "wiki/sources/persistent-speaker-attribution.md"
     },
     {
-      "basename": "gladia-speaker-reid",
-      "path": "wiki/sources/gladia-speaker-reid.md"
+      "basename": "roadmap",
+      "path": "專題/roadmap.md"
+    },
+    {
+      "basename": "asr-error-correction-llm",
+      "path": "wiki/sources/asr-error-correction-llm.md"
     },
     {
       "basename": "AI會議記錄工具比較表",
       "path": "wiki/synthesis/AI會議記錄工具比較表.md"
     },
     {
-      "basename": "asr-error-correction-llm",
-      "path": "wiki/sources/asr-error-correction-llm.md"
+      "basename": "gladia-speaker-reid",
+      "path": "wiki/sources/gladia-speaker-reid.md"
     },
     {
       "basename": "multi-asr-fusion-speechllm",
