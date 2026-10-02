@@ -79,8 +79,13 @@ ASR 不再只是「轉文字工具」，而是語音 AI Agent 的**感知前端*
 ## 相關概念
 
 - [[AI會議記錄工作流]]（ASR 的主要應用場景之一）
+- [[ASR錯誤修正]]（用 LLM 後處理修正 ASR 錯誤，屬「生成式 AI 增強 ASR」的深化）
+- [[語者分離與辨識]]（ASR 的延伸技術環節：標記「誰說了什麼」）
 
 ## 相關來源
 
 - [[largitdata-asr-technology]]
 - [[twm-myvoca-asr]]
+- [[asr-error-correction-llm]]（LLM 錯誤修正）
+- [[multi-asr-fusion-speechllm]]（多 ASR 融合與 SpeechLLM）
+- [[persistent-speaker-attribution]]（跨會議語者歸屬評測）

@@ -48,3 +48,7 @@ Notes: 為所有 entity 頁面新增 free_tier / chinese / taiwan_made / hardwar
 ## [2026-08-02] ingest | 5篇新文章（Tinrec部落格 × 3、leadingmrk、104職場力）
 Files touched: sources/tinrec-5tools-guide.md, sources/tinrec-9tools-2026.md, sources/leadingmrk-8tools-comparison.md, sources/104-voicetext-5tools.md, sources/tinrec-taiwanese-asr.md, entities/Tinrec.md, entities/RecCloud.md, entities/Memo-AI.md, entities/Typeless.md, entities/AudioPen.md, entities/Wispr-Flow.md, entities/cSubtitle.md, entities/Litok.md, entities/Otter-ai.md（更新）, entities/雅婷逐字稿.md（更新）, wiki/synthesis/AI會議記錄工具比較表.md（更新）, index.md
 Notes: 新增 8 款工具（Tinrec、RecCloud、Memo AI、Typeless、AudioPen、Wispr Flow、cSubtitle、Litok）；更新 Otter.ai（補充簡體中文支援與免費方案 300分/月）；更新雅婷逐字稿（補充一次性 300 分鐘免費試用）；比較表加入新工具、修正資料、更新決策樹與注意事項；引入「語音輸入法」與「語音筆記」新類別。
+
+## [2026-10-02] ingest | 4篇學術論文（ASR錯誤修正 + 語者歸屬）
+Files touched: sources/asr-error-correction-llm.md, sources/multi-asr-fusion-speechllm.md, sources/persistent-speaker-attribution.md, sources/gladia-speaker-reid.md, concepts/ASR錯誤修正.md, concepts/語者分離與辨識.md, entities/OpenAI-Whisper.md, entities/ThyVoice.md, concepts/ASR技術.md（更新）, index.md
+Notes: 攝入 3 篇 arXiv 論文 + 1 篇 Gladia 部落格（內容未擷取，建存根）；新增概念「ASR錯誤修正」「語者分離與辨識」；新增實體 OpenAI Whisper、ThyVoice；ASR技術頁補上新概念與來源連結。論文主題（LLM 錯誤修正、持久性語者歸屬）與畢業專題高度相關。
