@@ -41,7 +41,8 @@
               "title": "關聯圖檢視"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -287,7 +288,7 @@
       "capstone-dashboard:開啟專題看板": false
     }
   },
-  "active": "c3ed7138c6987b31",
+  "active": "76fc50b3d132d934",
   "lastOpenFiles": [
     "wiki/sources/persistent-speaker-attribution.md",
     "專題/roadmap.md",
