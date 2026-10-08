@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "630655356f433208",
-            "type": "leaf",
-            "state": {
-              "type": "capstone-dashboard",
-              "state": {},
-              "icon": "layout-dashboard",
-              "title": "專題看板"
-            }
-          },
-          {
             "id": "63ab471a2f507949",
             "type": "leaf",
             "state": {
@@ -40,9 +30,19 @@
               "icon": "lucide-git-fork",
               "title": "關聯圖檢視"
             }
+          },
+          {
+            "id": "6d786b2d9ac665d0",
+            "type": "leaf",
+            "state": {
+              "type": "capstone-dashboard",
+              "state": {},
+              "icon": "layout-dashboard",
+              "title": "專題看板"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,9 +288,11 @@
       "capstone-dashboard:開啟專題看板": false
     }
   },
-  "active": "76fc50b3d132d934",
+  "active": "6d786b2d9ac665d0",
   "lastOpenFiles": [
     "wiki/sources/persistent-speaker-attribution.md",
+    "專題/logs/wiki-lint.md",
+    "專題/logs",
     "專題/roadmap.md",
     "wiki/sources/asr-error-correction-llm.md",
     "wiki/synthesis/AI會議記錄工具比較表.md",
@@ -325,8 +327,6 @@
     "未命名.canvas",
     "raw/2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚.md",
     "raw/assets/指令.md",
-    "wiki/sources/leadingmrk-8tools-comparison.md",
-    "未命名/test",
     "permissions.png"
   ]
 }
