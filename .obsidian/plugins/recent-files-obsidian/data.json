@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "AI會議記錄工具比較表",
+      "path": "wiki/synthesis/AI會議記錄工具比較表.md"
+    },
+    {
+      "basename": "AI會議記錄工作流",
+      "path": "wiki/concepts/AI會議記錄工作流.md"
+    },
+    {
       "basename": "persistent-speaker-attribution",
       "path": "wiki/sources/persistent-speaker-attribution.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "asr-error-correction-llm",
       "path": "wiki/sources/asr-error-correction-llm.md"
-    },
-    {
-      "basename": "AI會議記錄工具比較表",
-      "path": "wiki/synthesis/AI會議記錄工具比較表.md"
     },
     {
       "basename": "gladia-speaker-reid",
@@ -143,10 +147,6 @@
     {
       "basename": "人工智慧時代來臨！ASR語音轉文字技術創新與實際應用",
       "path": "raw/人工智慧時代來臨！ASR語音轉文字技術創新與實際應用.md"
-    },
-    {
-      "basename": "AI會議記錄工作流",
-      "path": "wiki/concepts/AI會議記錄工作流.md"
     },
     {
       "basename": "tinrec-5tools-guide",
