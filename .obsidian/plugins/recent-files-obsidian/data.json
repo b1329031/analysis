@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Voicetag",
-      "path": "wiki/entities/Voicetag.md"
+      "basename": "log",
+      "path": "log.md"
+    },
+    {
+      "basename": "2026-08-13-wiki-session",
+      "path": "Notes/Conversation/2026-08-13-wiki-session.md"
     },
     {
       "basename": "2026-09-30-指導老師",
       "path": "專題/會議/2026-09-30-指導老師.md"
     },
     {
-      "basename": "Whisper-Taiwanese",
-      "path": "wiki/entities/Whisper-Taiwanese.md"
+      "basename": "Voicetag",
+      "path": "wiki/entities/Voicetag.md"
     },
     {
       "basename": "index",
@@ -19,6 +23,22 @@
     {
       "basename": "roadmap",
       "path": "專題/roadmap.md"
+    },
+    {
+      "basename": "wiki-lint",
+      "path": "專題/logs/wiki-lint.md"
+    },
+    {
+      "basename": "AI會議記錄工作流",
+      "path": "wiki/concepts/AI會議記錄工作流.md"
+    },
+    {
+      "basename": "persistent-speaker-attribution",
+      "path": "wiki/sources/persistent-speaker-attribution.md"
+    },
+    {
+      "basename": "Whisper-Taiwanese",
+      "path": "wiki/entities/Whisper-Taiwanese.md"
     },
     {
       "basename": "AI會議記錄工具比較表",
@@ -33,24 +53,8 @@
       "path": "專題/logs/agent-log.md"
     },
     {
-      "basename": "wiki-lint",
-      "path": "專題/logs/wiki-lint.md"
-    },
-    {
       "basename": "2026-W41",
       "path": "專題/週報/2026-W41.md"
-    },
-    {
-      "basename": "log",
-      "path": "log.md"
-    },
-    {
-      "basename": "persistent-speaker-attribution",
-      "path": "wiki/sources/persistent-speaker-attribution.md"
-    },
-    {
-      "basename": "AI會議記錄工作流",
-      "path": "wiki/concepts/AI會議記錄工作流.md"
     },
     {
       "basename": "asr-error-correction-llm",
@@ -75,10 +79,6 @@
     {
       "basename": "ASR Error Correction using Large Language Models",
       "path": "raw/ASR Error Correction using Large Language Models.md"
-    },
-    {
-      "basename": "2026-08-13-wiki-session",
-      "path": "Notes/Conversation/2026-08-13-wiki-session.md"
     },
     {
       "basename": "AI 語音轉文字工具推薦：8 款比較，會議記錄、逐字稿、語音輸入哪個最適合你？",

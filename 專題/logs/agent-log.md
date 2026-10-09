@@ -55,3 +55,12 @@
 - **語者分離與辨識** — 加入 DiariZen/jb55/voicetag 工具對照表及 pyannote 踩雷警告
 - **ASR技術** — 加入即時串流轉錄章節、台灣本土模型（Whisper-Taiwanese）、語碼轉換 ASR 連結
 
+
+## 2026-10-09 12:11:00　Ingest raw　✅ 成功（41.1s）
+
+所有 `raw/` 下的原始檔案（排除 `raw/assets/`）均已有對應的 `wiki/sources/` 條目引用。
+
+**所有來源皆已處理完畢。**
+
+`raw/` 中的 16 個 `.md` 檔案全部都在 `wiki/sources/` 各頁面的 `sources:` 欄位中有對應記錄，無需執行 ingest。
+
