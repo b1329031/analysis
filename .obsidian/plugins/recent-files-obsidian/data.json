@@ -5,6 +5,14 @@
       "path": "專題/roadmap.md"
     },
     {
+      "basename": "2026-09-30-指導老師",
+      "path": "專題/會議/2026-09-30-指導老師.md"
+    },
+    {
+      "basename": "AI會議記錄工具比較表",
+      "path": "wiki/synthesis/AI會議記錄工具比較表.md"
+    },
+    {
       "basename": "agent-log",
       "path": "專題/logs/agent-log.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "persistent-speaker-attribution",
       "path": "wiki/sources/persistent-speaker-attribution.md"
-    },
-    {
-      "basename": "AI會議記錄工具比較表",
-      "path": "wiki/synthesis/AI會議記錄工具比較表.md"
     },
     {
       "basename": "AI會議記錄工作流",
