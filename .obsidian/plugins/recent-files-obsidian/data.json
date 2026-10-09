@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Speaker re-identification across recurring meetings",
+      "path": "raw/Speaker re-identification across recurring meetings.md"
+    },
+    {
+      "basename": "Aligning Speech to Languages",
+      "path": "raw/Aligning Speech to Languages.md"
+    },
+    {
+      "basename": "混合語言之語音的語言辨認",
+      "path": "raw/混合語言之語音的語言辨認.md"
+    },
+    {
+      "basename": "南大 Whisper-Taiwanese Tv0.5",
+      "path": "raw/南大 Whisper-Taiwanese Tv0.5.md"
+    },
+    {
+      "basename": "voicetag",
+      "path": "raw/voicetag.md"
+    },
+    {
+      "basename": "jb55 transcribe",
+      "path": "raw/jb55 transcribe.md"
+    },
+    {
+      "basename": "VoiceStreamAI",
+      "path": "raw/VoiceStreamAI.md"
+    },
+    {
+      "basename": "DiariZen Explained",
+      "path": "raw/DiariZen Explained.md"
+    },
+    {
+      "basename": "HF 論壇：相似度全部 1.000 的踩雷",
+      "path": "raw/HF 論壇：相似度全部 1.000 的踩雷.md"
+    },
+    {
+      "basename": "Whisper-Streaming",
+      "path": "raw/Whisper-Streaming.md"
+    },
+    {
       "basename": "roadmap",
       "path": "專題/roadmap.md"
     },
@@ -51,10 +91,6 @@
     {
       "basename": "multi-asr-fusion-speechllm",
       "path": "wiki/sources/multi-asr-fusion-speechllm.md"
-    },
-    {
-      "basename": "Speaker re-identification across recurring meetings",
-      "path": "raw/Speaker re-identification across recurring meetings.md"
     },
     {
       "basename": "Who Said What, and Will It Be Remembered? Evaluating Persistent Speaker Attribution Across Meetings",
@@ -163,14 +199,6 @@
     {
       "basename": "人工智慧時代來臨！ASR語音轉文字技術創新與實際應用",
       "path": "raw/人工智慧時代來臨！ASR語音轉文字技術創新與實際應用.md"
-    },
-    {
-      "basename": "tinrec-5tools-guide",
-      "path": "wiki/sources/tinrec-5tools-guide.md"
-    },
-    {
-      "basename": "cSubtitle",
-      "path": "wiki/entities/cSubtitle.md"
     }
   ],
   "omittedPaths": [],
