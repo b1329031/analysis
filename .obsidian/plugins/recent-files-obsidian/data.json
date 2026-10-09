@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "agent-log",
+      "path": "專題/logs/agent-log.md"
+    },
+    {
+      "basename": "wiki-lint",
+      "path": "專題/logs/wiki-lint.md"
+    },
+    {
       "basename": "persistent-speaker-attribution",
       "path": "wiki/sources/persistent-speaker-attribution.md"
     },
