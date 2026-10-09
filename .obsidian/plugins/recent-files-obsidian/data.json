@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "AI會議記錄工具比較表",
-      "path": "wiki/synthesis/AI會議記錄工具比較表.md"
-    },
-    {
-      "basename": "AI會議記錄工作流",
-      "path": "wiki/concepts/AI會議記錄工作流.md"
-    },
-    {
       "basename": "persistent-speaker-attribution",
       "path": "wiki/sources/persistent-speaker-attribution.md"
     },
     {
+      "basename": "AI會議記錄工具比較表",
+      "path": "wiki/synthesis/AI會議記錄工具比較表.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "未命名 1.canvas"
+    },
+    {
       "basename": "roadmap",
       "path": "專題/roadmap.md"
+    },
+    {
+      "basename": "AI會議記錄工作流",
+      "path": "wiki/concepts/AI會議記錄工作流.md"
     },
     {
       "basename": "asr-error-correction-llm",
