@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Voicetag",
+      "path": "wiki/entities/Voicetag.md"
+    },
+    {
+      "basename": "2026-09-30-指導老師",
+      "path": "專題/會議/2026-09-30-指導老師.md"
+    },
+    {
+      "basename": "Whisper-Taiwanese",
+      "path": "wiki/entities/Whisper-Taiwanese.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
@@ -13,48 +25,8 @@
       "path": "wiki/synthesis/AI會議記錄工具比較表.md"
     },
     {
-      "basename": "HF 論壇：相似度全部 1.000 的踩雷",
-      "path": "raw/HF 論壇：相似度全部 1.000 的踩雷.md"
-    },
-    {
-      "basename": "VoiceStreamAI",
-      "path": "raw/VoiceStreamAI.md"
-    },
-    {
       "basename": "Speaker re-identification across recurring meetings",
       "path": "raw/Speaker re-identification across recurring meetings.md"
-    },
-    {
-      "basename": "Aligning Speech to Languages",
-      "path": "raw/Aligning Speech to Languages.md"
-    },
-    {
-      "basename": "混合語言之語音的語言辨認",
-      "path": "raw/混合語言之語音的語言辨認.md"
-    },
-    {
-      "basename": "南大 Whisper-Taiwanese Tv0.5",
-      "path": "raw/南大 Whisper-Taiwanese Tv0.5.md"
-    },
-    {
-      "basename": "voicetag",
-      "path": "raw/voicetag.md"
-    },
-    {
-      "basename": "jb55 transcribe",
-      "path": "raw/jb55 transcribe.md"
-    },
-    {
-      "basename": "DiariZen Explained",
-      "path": "raw/DiariZen Explained.md"
-    },
-    {
-      "basename": "Whisper-Streaming",
-      "path": "raw/Whisper-Streaming.md"
-    },
-    {
-      "basename": "2026-09-30-指導老師",
-      "path": "專題/會議/2026-09-30-指導老師.md"
     },
     {
       "basename": "agent-log",
@@ -191,10 +163,6 @@
     {
       "basename": "歡迎",
       "path": "歡迎.md"
-    },
-    {
-      "basename": "文章追蹤",
-      "path": "文章追蹤.md"
     }
   ],
   "omittedPaths": [],
