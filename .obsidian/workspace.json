@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2474f20005e4b3b7",
+        "id": "416396f8489dda34",
         "type": "tabs",
         "children": [
           {
-            "id": "c1b8517eae637e1e",
+            "id": "55d047720aad0a65",
             "type": "leaf",
             "state": {
-              "type": "capstone-dashboard",
-              "state": {},
-              "icon": "layout-dashboard",
-              "title": "專題看板"
+              "type": "markdown",
+              "state": {
+                "file": "log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "log"
             }
           }
         ]
@@ -67,7 +71,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "書籤"
             }
@@ -78,8 +85,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "clock",
+              "title": "Recent files"
             }
           },
           {
@@ -97,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 412.4375
   },
   "right": {
     "id": "fa1862be0a1f2f0e",
@@ -221,8 +228,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -231,16 +238,17 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,14 +273,19 @@
   },
   "active": "76fc50b3d132d934",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "log.md",
     "未命名 1.canvas",
+    "未命名.base",
+    "未命名 1.base",
+    "專題/roadmap.md",
+    "未命名 2.base",
+    "文章追蹤.md",
     "Notes/Conversation/2026-08-13-wiki-session.md",
     "專題/會議/2026-09-30-指導老師.md",
     "wiki/entities/Voicetag.md",
     "index.md",
-    "專題/roadmap.md",
     "專題/logs/wiki-lint.md",
-    "log.md",
     "wiki/concepts/AI會議記錄工作流.md",
     "wiki/sources/persistent-speaker-attribution.md",
     "raw/VoiceStreamAI.md",
@@ -291,7 +304,6 @@
     "raw/09-archive/Aligning Speech to Languages.md",
     "raw/09-archive",
     "raw/混合語言之語音的語言辨認.md",
-    "wiki/entities/Whisper-Taiwanese.md",
     "raw/DiariZen Explained.md.tmp.44091.850c7c66f5a8",
     "raw/voicetag.md.tmp.44091.6e02bf57c6e0",
     "raw/混合語言之語音的語言辨認.md.tmp.44091.e59e80b54715",
@@ -299,10 +311,6 @@
     "專題/logs",
     "專題/會議",
     "專題/功能",
-    "專題/週報",
-    "專題",
-    "Notes/Conversation",
-    "未命名.canvas",
     "permissions.png"
   ]
 }

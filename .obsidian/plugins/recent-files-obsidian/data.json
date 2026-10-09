@@ -5,6 +5,10 @@
       "path": "log.md"
     },
     {
+      "basename": "roadmap",
+      "path": "專題/roadmap.md"
+    },
+    {
       "basename": "2026-08-13-wiki-session",
       "path": "Notes/Conversation/2026-08-13-wiki-session.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "index",
       "path": "index.md"
-    },
-    {
-      "basename": "roadmap",
-      "path": "專題/roadmap.md"
     },
     {
       "basename": "wiki-lint",
@@ -99,22 +99,6 @@
     {
       "basename": "2026 AI 會議記錄工具推薦：5款高效錄音轉文字軟體評測與選擇指南",
       "path": "raw/2026 AI 會議記錄工具推薦：5款高效錄音轉文字軟體評測與選擇指南.md"
-    },
-    {
-      "basename": "未命名 2",
-      "path": "未命名 2.base"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.base"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.base"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
     },
     {
       "basename": "2026 AI 會議紀錄工具實測｜8 款語音轉文字與摘要速度大比拚",
