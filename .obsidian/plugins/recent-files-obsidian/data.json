@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "roadmap",
+      "path": "專題/roadmap.md"
+    },
+    {
+      "basename": "AI會議記錄工具比較表",
+      "path": "wiki/synthesis/AI會議記錄工具比較表.md"
+    },
+    {
+      "basename": "HF 論壇：相似度全部 1.000 的踩雷",
+      "path": "raw/HF 論壇：相似度全部 1.000 的踩雷.md"
+    },
+    {
+      "basename": "VoiceStreamAI",
+      "path": "raw/VoiceStreamAI.md"
+    },
+    {
       "basename": "Speaker re-identification across recurring meetings",
       "path": "raw/Speaker re-identification across recurring meetings.md"
     },
@@ -25,32 +45,16 @@
       "path": "raw/jb55 transcribe.md"
     },
     {
-      "basename": "VoiceStreamAI",
-      "path": "raw/VoiceStreamAI.md"
-    },
-    {
       "basename": "DiariZen Explained",
       "path": "raw/DiariZen Explained.md"
-    },
-    {
-      "basename": "HF 論壇：相似度全部 1.000 的踩雷",
-      "path": "raw/HF 論壇：相似度全部 1.000 的踩雷.md"
     },
     {
       "basename": "Whisper-Streaming",
       "path": "raw/Whisper-Streaming.md"
     },
     {
-      "basename": "roadmap",
-      "path": "專題/roadmap.md"
-    },
-    {
       "basename": "2026-09-30-指導老師",
       "path": "專題/會議/2026-09-30-指導老師.md"
-    },
-    {
-      "basename": "AI會議記錄工具比較表",
-      "path": "wiki/synthesis/AI會議記錄工具比較表.md"
     },
     {
       "basename": "agent-log",
@@ -59,10 +63,6 @@
     {
       "basename": "wiki-lint",
       "path": "專題/logs/wiki-lint.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "2026-W41",
@@ -195,10 +195,6 @@
     {
       "basename": "文章追蹤",
       "path": "文章追蹤.md"
-    },
-    {
-      "basename": "人工智慧時代來臨！ASR語音轉文字技術創新與實際應用",
-      "path": "raw/人工智慧時代來臨！ASR語音轉文字技術創新與實際應用.md"
     }
   ],
   "omittedPaths": [],
