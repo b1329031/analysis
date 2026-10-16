@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fa1862be0a1f2f0e",
@@ -285,16 +284,16 @@
   },
   "active": "12a27f2e401a6969",
   "lastOpenFiles": [
-    "log.md",
-    "未命名.canvas",
     "未命名 1.canvas",
+    "未命名.canvas",
+    "專題/會議/2026-09-30-指導老師.md",
+    "log.md",
     "未命名.base",
     "未命名 1.base",
     "專題/roadmap.md",
     "未命名 2.base",
     "文章追蹤.md",
     "Notes/Conversation/2026-08-13-wiki-session.md",
-    "專題/會議/2026-09-30-指導老師.md",
     "wiki/entities/Voicetag.md",
     "index.md",
     "專題/logs/wiki-lint.md",
