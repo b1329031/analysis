@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "whisper-streaming",
+      "path": "wiki/sources/whisper-streaming.md"
+    },
+    {
+      "basename": "jb55-transcribe",
+      "path": "wiki/sources/jb55-transcribe.md"
+    },
+    {
+      "basename": "nknu-whisper-taiwanese",
+      "path": "wiki/sources/nknu-whisper-taiwanese.md"
+    },
+    {
+      "basename": "混合語言之語音的語言辨認",
+      "path": "raw/09-archive/混合語言之語音的語言辨認.md"
+    },
+    {
+      "basename": "rocling2007-lid",
+      "path": "wiki/sources/rocling2007-lid.md"
+    },
+    {
       "basename": "2026-09-30-指導老師",
       "path": "專題/會議/2026-09-30-指導老師.md"
     },

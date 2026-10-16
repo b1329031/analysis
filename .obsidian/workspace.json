@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "專題/會議/2026-09-30-指導老師.md",
+                "file": "wiki/sources/whisper-streaming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-30-指導老師"
+              "title": "whisper-streaming"
             }
           },
           {
@@ -297,10 +297,14 @@
   },
   "active": "55d047720aad0a65",
   "lastOpenFiles": [
+    "wiki/sources/jb55-transcribe.md",
+    "wiki/sources/nknu-whisper-taiwanese.md",
+    "raw/09-archive/混合語言之語音的語言辨認.md",
+    "wiki/sources/rocling2007-lid.md",
+    "專題/會議/2026-09-30-指導老師.md",
     "專題/roadmap.md",
     "專題/會議/2026-10-16-指導老師.md",
     "Notes/Conversation/2026-08-13-wiki-session.md",
-    "專題/會議/2026-09-30-指導老師.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "log.md",
@@ -314,7 +318,6 @@
     "wiki/concepts/AI會議記錄工作流.md",
     "wiki/sources/persistent-speaker-attribution.md",
     "raw/VoiceStreamAI.md",
-    "raw/09-archive/混合語言之語音的語言辨認.md",
     "raw/09-archive/南大 Whisper-Taiwanese Tv0.5.md",
     "raw/09-archive/voicetag.md",
     "raw/09-archive/jb55 transcribe.md",
@@ -325,10 +328,7 @@
     "raw/09-archive/HF 論壇：相似度全部 1.000 的踩雷.md",
     "raw/09-archive/Generative Error Correction for Code-Switching ASR.md",
     "raw/09-archive/DiariZen Explained.md",
-    "raw/09-archive/Building a Taiwanese Mandarin Spoken Language Model.md",
-    "raw/09-archive/Aligning Speech to Languages.md",
     "raw/09-archive",
-    "raw/混合語言之語音的語言辨認.md",
     "raw/DiariZen Explained.md.tmp.44091.850c7c66f5a8",
     "raw/voicetag.md.tmp.44091.6e02bf57c6e0",
     "raw/混合語言之語音的語言辨認.md.tmp.44091.e59e80b54715",
