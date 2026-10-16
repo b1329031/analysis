@@ -45,7 +45,8 @@
               "title": "roadmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,7 +296,7 @@
       "capstone-dashboard:開啟專題看板": false
     }
   },
-  "active": "55d047720aad0a65",
+  "active": "12a27f2e401a6969",
   "lastOpenFiles": [
     "wiki/sources/jb55-transcribe.md",
     "wiki/sources/nknu-whisper-taiwanese.md",
