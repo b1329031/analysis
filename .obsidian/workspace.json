@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2026-09-30-指導老師"
             }
+          },
+          {
+            "id": "12a27f2e401a6969",
+            "type": "leaf",
+            "state": {
+              "type": "capstone-dashboard",
+              "state": {},
+              "icon": "layout-dashboard",
+              "title": "專題看板"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,7 +283,7 @@
       "capstone-dashboard:開啟專題看板": false
     }
   },
-  "active": "55d047720aad0a65",
+  "active": "12a27f2e401a6969",
   "lastOpenFiles": [
     "log.md",
     "未命名.canvas",
