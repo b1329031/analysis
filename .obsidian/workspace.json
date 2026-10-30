@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/inbox.md",
+                "file": "歡迎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inbox"
+              "title": "歡迎"
             }
           }
         ],
@@ -138,8 +138,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -312,8 +311,8 @@
   },
   "active": "828bca0296a3bcc4",
   "lastOpenFiles": [
-    "templates/功能卡範本.md",
     "templates/inbox.md",
+    "templates/功能卡範本.md",
     "templates/會議紀錄範本.md",
     "wiki/sources/whisper-streaming.md",
     "wiki/sources/jb55-transcribe.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "歡迎",
+      "path": "歡迎.md"
+    },
+    {
       "basename": "inbox",
       "path": "templates/inbox.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "歡迎",
-      "path": "歡迎.md"
     }
   ],
   "omittedPaths": [],
