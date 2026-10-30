@@ -69,15 +69,17 @@
       "name": "New template",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "templates/inbox.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD-HHmm}}"
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "templates"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
