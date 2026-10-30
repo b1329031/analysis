@@ -63,6 +63,37 @@
       "templater": {
         "afterCapture": "none"
       }
+    },
+    {
+      "id": "e7773b39-0edc-432c-a304-8dc240afe870",
+      "name": "New template",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "discoverExistingNotesBeforeCreate": false,
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "copyLinkToClipboard": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
     }
   ],
   "inputPrompt": "single-line",

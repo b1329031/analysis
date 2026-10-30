@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "inbox",
+      "path": "templates/inbox.md"
+    },
+    {
+      "basename": "功能卡範本",
+      "path": "templates/功能卡範本.md"
+    },
+    {
+      "basename": "會議紀錄範本",
+      "path": "templates/會議紀錄範本.md"
+    },
+    {
       "basename": "whisper-streaming",
       "path": "wiki/sources/whisper-streaming.md"
     },
