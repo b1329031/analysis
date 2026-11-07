@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "roadmap",
+      "path": "專題/roadmap.md"
+    },
+    {
+      "basename": "瓜",
+      "path": "daily/瓜.md"
+    },
+    {
+      "basename": "whisper-streaming",
+      "path": "wiki/sources/whisper-streaming.md"
+    },
+    {
       "basename": "歡迎",
       "path": "歡迎.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "會議紀錄範本",
       "path": "templates/會議紀錄範本.md"
-    },
-    {
-      "basename": "whisper-streaming",
-      "path": "wiki/sources/whisper-streaming.md"
     },
     {
       "basename": "jb55-transcribe",
@@ -39,10 +47,6 @@
     {
       "basename": "2026-09-30-指導老師",
       "path": "專題/會議/2026-09-30-指導老師.md"
-    },
-    {
-      "basename": "roadmap",
-      "path": "專題/roadmap.md"
     },
     {
       "basename": "2026-10-16-指導老師",

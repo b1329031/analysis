@@ -6,7 +6,7 @@ created: 2026-10-09
 updated: 2026-10-09
 sources: ["Whisper-Streaming.md"]
 ---
-
+[[瓜]]
 # Whisper-Streaming
 
 ## 後設資料
