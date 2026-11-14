@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "語者分離與辨識",
+      "path": "wiki/concepts/語者分離與辨識.md"
+    },
+    {
+      "basename": "CLOVA-Note",
+      "path": "wiki/entities/CLOVA-Note.md"
+    },
+    {
       "basename": "agent-log",
       "path": "專題/logs/agent-log.md"
     },

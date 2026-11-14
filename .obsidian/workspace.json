@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "專題/logs/agent-log.md",
+                "file": "wiki/concepts/語者分離與辨識.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agent-log"
+              "title": "語者分離與辨識"
             }
           }
         ],
@@ -309,8 +309,10 @@
       "capstone-dashboard:開啟專題看板": false
     }
   },
-  "active": "62b2b35d1276bc54",
+  "active": "6c7ee534e2a47589",
   "lastOpenFiles": [
+    "wiki/entities/CLOVA-Note.md",
+    "專題/logs/agent-log.md",
     "daily/未命名",
     "專題/roadmap.md",
     "daily/瓜.md",
@@ -342,14 +344,12 @@
     "raw/VoiceStreamAI.md",
     "raw/09-archive/南大 Whisper-Taiwanese Tv0.5.md",
     "raw/09-archive/voicetag.md",
-    "raw/09-archive/jb55 transcribe.md",
     "raw/09-archive",
     "raw/DiariZen Explained.md.tmp.44091.850c7c66f5a8",
     "raw/voicetag.md.tmp.44091.6e02bf57c6e0",
     "raw/混合語言之語音的語言辨認.md.tmp.44091.e59e80b54715",
     "未命名 2.canvas",
     "專題/logs",
-    "專題/會議",
     "permissions.png"
   ]
 }
