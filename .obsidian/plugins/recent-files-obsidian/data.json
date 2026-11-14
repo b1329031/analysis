@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "agent-log",
+      "path": "專題/logs/agent-log.md"
+    },
+    {
       "basename": "roadmap",
       "path": "專題/roadmap.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "Speaker re-identification across recurring meetings",
       "path": "raw/Speaker re-identification across recurring meetings.md"
-    },
-    {
-      "basename": "agent-log",
-      "path": "專題/logs/agent-log.md"
     },
     {
       "basename": "2026-W41",
